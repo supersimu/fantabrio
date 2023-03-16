@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Inserisci i tuoi pronostici</title>
+</head>
+<body>
+	<h1>Inserisci i tuoi pronostici</h1>
+	<form>
+		<label for="nome">Nome Allenatore:</label>
+		<select id="nome" name="nome">
+			<option value="allenatore1">Allenatore 1</option>
+			<option value="allenatore2">Allenatore 2</option>
+			<option value="allenatore3">Allenatore 3</option>
+			<option value="allenatore4">Allenatore 4</option>
+			<option value="allenatore5">Allenatore 5</option>
+			<option value="allenatore6">Allenatore 6</option>
+			<option value="allenatore7">Allenatore 7</option>
+			<option value="allenatore8">Allenatore 8</option>
+			<option value="allenatore9">Allenatore 9</option>
+			<option value="allenatore10">Allenatore 10</option>
+		</select>
+		<br>
+		<label for="casa1">Squadra in casa:</label>
+		<input type="text" id="casa1" name="casa1">
+		<label for="trasferta1">Squadra in trasferta:</label>
+		<input type="text" id="trasferta1" name="trasferta1">
+		<br>
+		<label for="golcasa1">Gol casa:</label>
+		<input type="number" id="golcasa1" name="golcasa1">
+		<label for="goltrasferta1">Gol trasferta:</label>
+		<input type="number" id="goltrasferta1" name="goltrasferta1">
+		<br>
+		<label for="casa2">Squadra in casa:</label>
+		<input type="text" id="casa2" name="casa2">
+		<label for="trasferta2">Squadra in trasferta:</label>
+		<input type="text" id="trasferta2" name="trasferta2">
+		<br>
+		<label for="golcasa2">Gol casa:</label>
+		<input type="number" id="golcasa2" name="golcasa2">
+		<label for="goltrasferta2">Gol trasferta:</label>
+		<input type="number" id="goltrasferta2" name="goltrasferta2">
+		<br>
+		<label for="casa3">Squadra in casa:</label>
+		<input type="text" id="casa3" name="casa3">
+		<label for="trasferta3">Squadra in trasferta:</label>
+		<input type="text" id="trasferta3" name="trasferta3">
+		<br>
+		<label for="golcasa3">Gol casa:</label>
+		<input type="number" id="golcasa3" name="golcasa3">
+		<label for="goltrasferta3">Gol trasferta:</label
 
